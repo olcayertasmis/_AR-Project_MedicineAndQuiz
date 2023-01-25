@@ -1,6 +1,6 @@
 # Unity AR Project Template
 
-### Prerequisites
+### Information
  - In this project, medicine information and quiz application was made with Unity AR Core.
  - The project was carried out by targeting 2 languages. It is not dynamically encoded. Available language panels, Turkish and English.
  - The question competition scene is dynamically coded. Adding and removing questions, adding and removing categories can be done easily through the editor.
