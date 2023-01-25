@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: ParolEng
+  m_EditorClassIdentifier: 
+  categoryName: ParolEng
+  questions:
+  - questionInfo: What is the box color of Parol?
+    questionType: 0
+    options:
+    - Blue
+    - Red
+    - Green
+    - Black
+    correctAns: Blue
+  - questionInfo: What is Parol good for?
+    questionType: 0
+    options:
+    - Pain
+    - Eye
+    - Hearth
+    - Blood pressure
+    correctAns: Pain
+  - questionInfo: Is Parol used for headache?
+    questionType: 0
+    options:
+    - Yes
+    - No
+    - I dont know
+    - Never
+    correctAns: Yes
+  - questionInfo: Which drug are we currently testing?
+    questionType: 0
+    options:
+    - Parol
+    - Dolorex
+    - I dont know
+    - Aspirine
+    correctAns: Parol

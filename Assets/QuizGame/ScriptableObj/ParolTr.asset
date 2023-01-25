@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: ParolTr
+  m_EditorClassIdentifier: 
+  categoryName: ParolTr
+  questions:
+  - questionInfo: Parol'un kutu rengi nedir ?
+    questionType: 0
+    options:
+    - Mavi
+    - "K\u0131rm\u0131z\u0131"
+    - Turuncu
+    - "Ye\u015Fil"
+    correctAns: Mavi
+  - questionInfo: Parol neye iyi gelir ?
+    questionType: 0
+    options:
+    - "A\u011Fr\u0131lara"
+    - "G\xF6ze"
+    - Tansiyona
+    - Kalbe
+    correctAns: "A\u011Fr\u0131lara"
+  - questionInfo: "Parol ba\u015F a\u011Fr\u0131s\u0131nda kullan\u0131l\u0131r m\u0131
+      ?"
+    questionType: 0
+    options:
+    - Evet
+    - "Hay\u0131r"
+    - Bilmiyorum
+    - Asla
+    correctAns: Evet
+  - questionInfo: "\u015Eu an hangi ilac\u0131n testindeyiz ?"
+    questionType: 0
+    options:
+    - Parol
+    - Dolorex
+    - Bilmiyorum
+    - Aspirin
+    correctAns: Parol
